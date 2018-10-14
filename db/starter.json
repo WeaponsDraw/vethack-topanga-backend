@@ -1,0 +1,202 @@
+{
+  "nalaKaizer2019": {
+    "name": "Nala and Kaizers Wedding",
+    "location": "231 Finish Ave, Seattle, WA",
+    "time": "17:00",
+    "weddingYear": 2019
+  },
+  "registry": [
+    {
+      "name": "Apex Bag",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51Q8UC+6eQL._AC_US436_QL65_.jpg",
+      "url": "https://www.amazon.com/BLACK-DECKER-Counter-Blender-BL1210BG/dp/B0745FCR48/ref=sr_1_1_sspa?s=kitchen&ie=UTF8&qid=1539460482&sr=1-1-spons&keywords=blender&psc=1"
+    },
+    {
+      "name": "Pillow",
+      "imageUrl": "https://slimages.macysassets.com/is/image/MCY/products/0/optimized/3235400_fpx.tif?$thumb$&wid=296",
+      "url": "https://www.amazon.com/BLACK-DECKER-Counter-Blender-BL1210BG/dp/B0745FCR48/ref=sr_1_1_sspa?s=kitchen&ie=UTF8&qid=1539460482&sr=1-1-spons&keywords=blender&psc=1"
+    },
+    {
+      "name": "Alexa",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41iz5Tw82IL._AC_US218_.jpg",
+      "url": "https://www.amazon.com/Amazon-Echo-Dot-Portable-Bluetooth-Speaker-with-Alexa-Black/dp/B01DFKC2SO/ref=ice_ac_b_dpb?s=amazon-devices&ie=UTF8&qid=1539481090&sr=1-2&keywords=alexa"
+    },
+    {
+      "name": "Rig",
+      "imageUrl": "https://www.roguefitness.com/media/catalog/product/cache/1/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/r/i/rig2-0-th_no-text.jpg",
+      "url": "https://www.amazon.com/Amazon-Echo-Dot-Portable-Bluetooth-Speaker-with-Alexa-Black/dp/B01DFKC2SO/ref=ice_ac_b_dpb?s=amazon-devices&ie=UTF8&qid=1539481090&sr=1-2&keywords=alexa"
+    }
+  ],
+  "guests": {
+    "ArnoldGatsby2019": {
+      "firstName": "Arnold",
+      "lastName": "Gatsby",
+      "phone": "(123)-567-1234",
+      "address": "123 This St, Seattle, WA",
+      "rsvp": {
+        "delivery": {
+          "email": false,
+          "text": false,
+          "selfQr": true,
+          "topanga": true
+        },
+        "responded": false,
+        "plus": 0,
+        "comments": "this comment"
+      }
+    },
+    "TylerWino2019": {
+      "firstName": "Tyler",
+      "lastName": "Wino",
+      "phone": "(123)-567-1234",
+      "address": "123 This St, Seattle, WA",
+      "rsvp": {
+        "delivery": {
+          "email": false,
+          "text": false,
+          "selfQr": true,
+          "topanga": true
+        },
+        "responded": false,
+        "plus": 0,
+        "comments": "this comment"
+      }
+    },
+    "AlistairMeridian2019": {
+      "firstName": "Alistair",
+      "lastName": "Meridian",
+      "phone": "(123)-567-1234",
+      "address": "123 This St, Seattle, WA",
+      "rsvp": {
+        "delivery": {
+          "email": false,
+          "text": false,
+          "selfQr": true,
+          "topanga": true
+        },
+        "responded": false,
+        "plus": 0,
+        "comments": "this comment"
+      }
+    },
+    "NancyMeridian2019": {
+      "firstName": "Nancy",
+      "lastName": "Meridian",
+      "phone": "(123)-567-1234",
+      "address": "123 This St, Seattle, WA",
+      "rsvp": {
+        "delivery": {
+          "email": false,
+          "text": false,
+          "selfQr": true,
+          "topanga": true
+        },
+        "responded": false,
+        "plus": 0,
+        "comments": "this comment"
+      }
+    },
+    "MarkHamill2019": {
+      "firstName": "Mark",
+      "lastName": "Hamill",
+      "phone": "(123)-567-1234",
+      "address": "123 This St, Seattle, WA",
+      "rsvp": {
+        "delivery": {
+          "email": false,
+          "text": false,
+          "selfQr": true,
+          "topanga": true
+        },
+        "responded": false,
+        "plus": 0,
+        "comments": "this comment"
+      }
+    },
+    "RayJonson2019": {
+      "firstName": "Ray",
+      "lastName": "Jonson",
+      "phone": "(123)-567-1234",
+      "address": "123 This St, Seattle, WA",
+      "rsvp": {
+        "delivery": {
+          "email": false,
+          "text": false,
+          "selfQr": true,
+          "topanga": true
+        },
+        "responded": false,
+        "plus": 0,
+        "comments": "this comment"
+      }
+    },
+    "RamDante2019": {
+      "firstName": "Ram",
+      "lastName": "Dante",
+      "phone": "(123)-567-1234",
+      "address": "123 This St, Seattle, WA",
+      "rsvp": {
+        "delivery": {
+          "email": true,
+          "text": true,
+          "selfQr": true,
+          "topanga": true
+        },
+        "responded": false,
+        "plus": 0,
+        "comments": "this comment"
+      }
+    },
+    "MarkStevens2019": {
+      "firstName": "Mark",
+      "lastName": "Stevens",
+      "phone": "(123)-567-1234",
+      "address": "123 This St, Seattle, WA",
+      "rsvp": {
+        "delivery": {
+          "email": true,
+          "text": true,
+          "selfQr": true,
+          "topanga": true
+        },
+        "responded": false,
+        "plus": 0,
+        "comments": "this comment"
+      }
+    },
+    "JennaStevens2019": {
+      "firstName": "Jenna",
+      "lastName": "Stevens",
+      "phone": "(123)-567-1234",
+      "address": "123 This St, Seattle, WA",
+      "rsvp": {
+        "delivery": {
+          "email": true,
+          "text": true,
+          "selfQr": true,
+          "topanga": true
+        },
+        "responded": false,
+        "plus": 0,
+        "comments": "this comment"
+      }
+    },
+    "RafikiMonkey2019": {
+      "firstName": "Rafiki",
+      "lastName": "Monkey",
+      "phone": "(123)-567-1234",
+      "address": "123 This St, Seattle, WA",
+      "rsvp": {
+        "delivery": {
+          "email": true,
+          "text": true,
+          "selfQr": true,
+          "topanga": true
+        },
+        "responded": false,
+        "plus": 0,
+        "comments": "this comment"
+      }
+    }
+  }
+}
