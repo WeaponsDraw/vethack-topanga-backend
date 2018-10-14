@@ -2,8 +2,11 @@
 
 const express = require('express');
 const app = express();
+const cors = require('cors');
 const bodyParser = require('body-parser').json();
 let events = require('./db/starter.json');
+
+app.use(cors());
 
 app.get('/api/topanga', function (req, res) {
   res.send(events)
