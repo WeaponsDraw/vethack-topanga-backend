@@ -40,7 +40,7 @@
           "selfQr": true,
           "topanga": true
         },
-        "responded": false,
+        "responded": "no",
         "plus": 0,
         "comments": "this comment"
       }
@@ -57,7 +57,7 @@
           "selfQr": true,
           "topanga": true
         },
-        "responded": false,
+        "responded": "yes",
         "plus": 0,
         "comments": "this comment"
       }
@@ -91,7 +91,7 @@
           "selfQr": true,
           "topanga": true
         },
-        "responded": false,
+        "responded": "maybe",
         "plus": 0,
         "comments": "this comment"
       }
@@ -108,7 +108,7 @@
           "selfQr": true,
           "topanga": true
         },
-        "responded": false,
+        "responded": "yes",
         "plus": 0,
         "comments": "this comment"
       }
@@ -125,7 +125,7 @@
           "selfQr": true,
           "topanga": true
         },
-        "responded": false,
+        "responded": "yes",
         "plus": 0,
         "comments": "this comment"
       }
@@ -142,7 +142,7 @@
           "selfQr": true,
           "topanga": true
         },
-        "responded": false,
+        "responded": "yes",
         "plus": 0,
         "comments": "this comment"
       }
@@ -159,7 +159,7 @@
           "selfQr": true,
           "topanga": true
         },
-        "responded": false,
+        "responded": "yes",
         "plus": 0,
         "comments": "this comment"
       }
@@ -176,7 +176,7 @@
           "selfQr": true,
           "topanga": true
         },
-        "responded": false,
+        "responded": "yes",
         "plus": 0,
         "comments": "this comment"
       }
@@ -193,7 +193,7 @@
           "selfQr": true,
           "topanga": true
         },
-        "responded": false,
+        "responded": "no",
         "plus": 0,
         "comments": "this comment"
       }
