@@ -74,7 +74,7 @@
           "selfQr": true,
           "topanga": true
         },
-        "responded": false,
+        "responded": "yes",
         "plus": 0,
         "comments": "this comment"
       }
