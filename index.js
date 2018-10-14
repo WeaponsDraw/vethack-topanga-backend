@@ -23,6 +23,8 @@ app.get('/api/topanga/:id/guest', function (req, res) {
 app.post('/api/topanga/:id/guest', bodyParser, function (req, res) {
   console.log(req.body)
   let newGuest = {}
+  newGuest.firstName = req.body.firstName 
+  newGuest.lastName = req.body.lastName 
   newGuest.rsvp = {
     "delivery": {
       "email": true,
