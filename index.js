@@ -30,12 +30,12 @@ app.post('/api/topanga/:id/guest', bodyParser, function (req, res) {
       "selfQr": true,
       "topanga": true
     },
-    "responded": false,
+    "responded": "no",
     "plus": 0,
     "comments": "this comment"
   }
   newGuest.id = req.body.firstName + req.body.lastName + events.nalaKaizer2019.weddingYear
-  events.guests[newGuest.id] = req.body;
+  events.guests[newGuest.id] = newGuest;
   res.send("Sucessful")
 });
 
